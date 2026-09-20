@@ -29,6 +29,8 @@ A help-menu can be shown by pressing the `h` key, or by configuring `general.alw
 
 <img style="width: 720px" src="vhs/help.png"/>
 
+See [docs/keybindings.md](docs/keybindings.md) for a full reference of every command, key and menu.
+
 ### Configuration
 The environment variables `VISUAL`, `EDITOR` or `GIT_EDITOR` (checked in this order) dictate which editor Gitu will open. This means that e. g. commit messages will be opened in the `GIT_EDITOR` by Git, but if the user wishes to do edits to the actual files in a different editor, `VISUAL` or `EDITOR` can be set accordingly.
 
